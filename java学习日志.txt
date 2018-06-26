@@ -1,0 +1,42 @@
+2018/3/24
+java web和后台路线： java基础-->HTML/CSS/JS-->Servlet/JSP（J2EE)-->Mysql（数据库）相关的知识
+-->(学习maven)开发框架ssm
+
+学会百度/google
+网站：CSDN 博客园 stackoverflow
+
+书籍：
+0-1：java编程思想（入门看）
+1-2：设计模式学习（大话设计模式），《重构 改善既有代码的设计》 《effective java》
+2-3：《Java并发编程实战》 《深入理解Java虚拟机》 
+
+本周任务：(3/24-31)
+24
+复习java基础
+装一个eclipse
+写一个小东西  比如计算器
+25
+知道什么是MVC，SSM框架，J2EE
+26-28
+了解并安装linux（服务器要用）
+	virtual box
+	vagrant 
+29-31
+了解服务器的相关知识
+学习linux简单命令
+装apache、tomcat服务器
+
+4/1-7
+html/css/js 学习
+仿写百度页面
+
+linux命令的使用方法都在系统里面
+使用  --help 查看帮助
+例如： rm --help
+ubuntu 和centos的 一些不同
+             ubuntu                        centos
+安装软件   sudo  apt-get install 软件名   sudo yum install 软件名
+更新       sudo apt-get update           sudo yum update
+安装更新   sudo apt-get upgrade        sudo  yum upgrade(貌似centos更新的时候就安装了 不运行这个命令也行)
+删除文件   sudo  rm 文件名              sudo rm  -f 文件名
+删除目录   sudo  rm -r 目录             sudo rm  -rf  目录

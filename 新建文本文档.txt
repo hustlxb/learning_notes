@@ -1,0 +1,4 @@
+ctrl+N 查找
+ctrl+Q 查看文档
+Alt+F7 查看方法和变量的用法
+ctrl+space 补全
